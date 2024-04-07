@@ -2,8 +2,8 @@
   "name":"DEXTER-V1-MD",
   "description":"An easy and simple WhatsApp bot developed by France King",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/57c3083b60b2bea6ec132.jpg",
-  "repository":"https://github.com/Purnageethanajana/DEXTER-V1-MD/",
+  "logo":"https://telegra.ph/file/5cbcd51271d3a70cd3457.jpg",
+  "repository":"https://github.com/Sandunshaki/DEXTER-V1-MD/",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"DEXTER-V1-MD",
+      "value":"INZANE-MD-1",
       "required":false
 
     } ,
