@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"DEXTER-MD-1",
+      "value":"_KING CYBER INZANE_",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"📌 Dont change ",
-      "value":"https://telegra.ph/file/950c1f09f96b44ca6a8f9.jpg",
+      "value":"https://telegra.ph/file/ec822354abea3521f47ba.jpg",
       "required":false
        
      },
