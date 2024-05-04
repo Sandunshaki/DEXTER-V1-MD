@@ -2,7 +2,7 @@
   "name":"_KING CYBER INZANE_",
   "description":"An easy and simple WhatsApp bot developed by France King",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/ec822354abea3521f47ba.jpg",
+  "logo":"https://telegra.ph/file/2c6188fe2826e71ea2661.jpg",
   "repository":"https://github.com/Sandunshaki/DEXTER-V1-MD/",
   "succes_url":"/",
   "stack":"container",
@@ -42,14 +42,14 @@
      "BOT_MENU_LINKS" : {
     
       "description":"📌 Dont change ",
-      "value":"https://telegra.ph/file/ec822354abea3521f47ba.jpg",
+      "value":"https://telegra.ph/file/2c6188fe2826e71ea2661.jpg",
       "required":false
        
      },
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"no",
+      "value":"yes",
       "required":false
     }
 	,
